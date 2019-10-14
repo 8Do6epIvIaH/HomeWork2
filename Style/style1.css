@@ -1,0 +1,32 @@
+.lol1 th{
+    background: orange;
+    width: 50%;
+    padding: 30px;
+    border: 10px solid red;
+    height:  30px;
+}
+
+.lol2 td{
+    background: chartreuse;
+}
+
+.lol3 th{
+    display: inline-block;
+    background: crimson;
+    width: 50%;
+}
+
+.lol4 td{
+    display: inline-block;
+    background: darkmagenta;
+    width: 30%;
+}
+
+.lol5 th{
+    background: darkturquoise;
+    width: 50%;
+}
+
+.lol6 td{
+    background: deeppink;
+}
