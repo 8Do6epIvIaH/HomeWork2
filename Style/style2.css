@@ -1,0 +1,7 @@
+.container1, .container2, .container3, .container4{
+    background: blueviolet;
+    padding-left: 60px;
+    display: inline-block;
+    width: 44%;
+    height: 200px;
+}

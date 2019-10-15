@@ -1,32 +1,41 @@
 .lol1 th{
+    display: inline-block;
     background: orange;
-    width: 50%;
-    padding: 30px;
-    border: 10px solid red;
-    height:  30px;
+    width: 45%;
+    padding: 60px;
 }
 
 .lol2 td{
+    display: inline-block;
     background: chartreuse;
+    width: 45%;
+    padding: 60px;
 }
 
 .lol3 th{
     display: inline-block;
     background: crimson;
-    width: 50%;
+    width: 28%;
+    padding: 60px;
 }
 
 .lol4 td{
     display: inline-block;
     background: darkmagenta;
-    width: 30%;
+    width: 29%;
+    padding: 50px;
 }
 
 .lol5 th{
+    display: inline-block;
     background: darkturquoise;
-    width: 50%;
+    width: 20%;
+    padding: 50px;
 }
 
 .lol6 td{
+    display: inline-block;
     background: deeppink;
+    width: 20%;
+    padding: 50px;
 }
